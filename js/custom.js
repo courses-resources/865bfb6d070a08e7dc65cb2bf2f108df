@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-    alert("probando recursos externos");
+    alert("Esto es una segunda prueba");
 });
