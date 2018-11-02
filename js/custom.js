@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-    alert("Esto es una segunda prueba");
+    alert("Esto es una tercera prueba");
 });
