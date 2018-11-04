@@ -1,0 +1,43 @@
+body{
+    color: #666;
+    font-family: 'Open Sans', sans-serif;
+}
+.back-dark{
+	background-color: #005486;
+}
+.front-white{
+	background-color: white;
+	border-radius: 7px;
+	margin-top: 20px;
+	margin-bottom: 200px;
+	padding: 12% 12%;
+}
+#img-logo{
+	width: 100%;
+}
+
+.centered-text{
+    text-align: justify;
+}
+.p-15-20{
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.hidden{
+    display: none;
+}
+.title-color{
+    color: #005486;
+}
+.h3-titulos{
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.modal-super-big{
+    max-width: 80% !important;
+}
+.padd-40{
+    padding: 40px;
+}
