@@ -28,8 +28,8 @@ body{
     margin-top: 13px;
     margin-bottom: 13px;
 }
-.button-color{
-   background-color: #b1b82e;
+.green-button{
+   background-color: #b1b82e !important;
 }
 .front-white{
 	background-color: white;
