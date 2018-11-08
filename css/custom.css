@@ -8,24 +8,38 @@ body{
 }
 .back-dark{
     background-color: #b5b2b3;
+    margin-top: 0px;
 }
 .back-dark-content{
     background-color: #e2e2e2;
+    border-radius: 5px;
+}
+.padding-content{
+    padding: 10px 20px 20px 20px;
 }
 .top-header{
-    background-color: #f4220d;
+    background-color: #e00109;
+    min-height: 40px;
+}
+.titulo-modulo{
+    color: white;
+    font-size: 15px;
+    line-height: 15px;
+    margin-top: 13px;
 }
 .button-color{
    background-color: #b1b82e;
 }
 .front-white{
 	background-color: white;
-	margin-top: 20px;
+	margin-top: 0px;
 	margin-bottom: 200px;
-	padding: 12% 12%;
+	--padding: 12% 12%;
 }
 #img-logo{
 	width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .justify-text{
@@ -45,15 +59,18 @@ body{
     display: none;
 }
 .title-color{
-    color: #d8456b;
+    color: #bf1a36;
 }
 .h3-titulos{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
-    line-height: 40px;
+    line-height: 45px;
     margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: center;
     --font-weight: bold;
 }
+
 .modal-super-big{
     max-width: 80% !important;
 }
@@ -62,4 +79,45 @@ body{
 }
 .centrado{
     text-align: center;
+}
+.color-sky-blue{
+  color: #10a6bc;
+}
+.color-green-clear{
+    color: #9ea320;
+}
+@media (max-width: 575px) {
+
+}
+
+@media (min-width: 576px) {
+
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+}
+
+
+@media (max-width: 767px) {
+ .titulo-modulo{
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .titulo-modulo{
+        text-align: left;
+    }
 }
