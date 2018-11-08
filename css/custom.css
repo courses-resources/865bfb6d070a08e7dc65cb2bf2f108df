@@ -35,7 +35,7 @@ body{
     padding: 10px 24px;
 }
 .green-button:hover{
-    background-color: #919629;
+    background-color: #919629 !important;
 }
 .front-white{
 	background-color: white;
