@@ -30,6 +30,9 @@ body{
 }
 .green-button{
    background-color: #b1b82e !important;
+    margin-bottom: 10px;
+    color: white;
+    padding: 10px 24px;
 }
 .front-white{
 	background-color: white;
