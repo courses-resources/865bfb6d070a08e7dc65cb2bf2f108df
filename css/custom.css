@@ -8,8 +8,16 @@ body{
     font-style: normal;
 }
 .back-dark{
-	--background-color: #005486;
     background-color: #b5b2b3;
+}
+.back-dark-content{
+    background-color: #e2e2e2;
+}
+.top-header{
+    background-color: #f4220d;
+}
+.button-color{
+   background-color: #b1b82e;
 }
 .front-white{
 	background-color: white;
@@ -34,7 +42,7 @@ body{
     display: none;
 }
 .title-color{
-    color: #005486;
+    color: #a94b63;
 }
 .h3-titulos{
     font-size: 20px;
