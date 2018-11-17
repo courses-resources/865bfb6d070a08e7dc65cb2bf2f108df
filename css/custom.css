@@ -9,6 +9,12 @@ body{
 .table-bordered {
     border: 0px solid #dee2e6 !important;
 }
+.table th {
+    text-align: center !important;
+    vertical-align: middle !important;
+    background-color: #005486;
+    color: #ffd13f;
+}
 .back-dark{
     background-color: #b5b2b3;
     margin-top: 0px;
