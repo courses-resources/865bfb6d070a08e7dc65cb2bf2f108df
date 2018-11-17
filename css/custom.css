@@ -91,7 +91,7 @@ body{
 }
 
 .modal-super-big{
-    max-width: 80% !important;
+    max-width: 100% !important;
 }
 .padd-40{
     padding: 40px;
