@@ -90,9 +90,7 @@ body{
     --font-weight: bold;
 }
 
-.modal-super-big{
-    max-width: 100% !important;
-}
+
 .padd-40{
     padding: 40px;
 }
@@ -143,12 +141,19 @@ body{
 @media (max-width: 767px) {
  .titulo-modulo{
         text-align: center;
+	 
     }
+.modal-super-big{
+    max-width: 100% !important;
+}
 }
 
 @media (min-width: 768px) {
     .titulo-modulo{
         text-align: left;
     }
+.modal-super-big{
+    max-width: 80% !important;
+}
 }
 /**/
