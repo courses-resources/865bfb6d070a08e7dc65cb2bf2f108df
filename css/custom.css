@@ -91,9 +91,7 @@ body{
 }
 
 
-.padd-40{
-    padding: 40px;
-}
+
 .centrado{
     text-align: center;
 }
@@ -146,6 +144,9 @@ body{
 .modal-super-big{
     max-width: 100% !important;
 }
+.padd-40{
+    padding: 20px;
+}
 }
 
 @media (min-width: 768px) {
@@ -154,6 +155,9 @@ body{
     }
 .modal-super-big{
     max-width: 80% !important;
+}
+.padd-40{
+    padding: 40px;
 }
 }
 /**/
