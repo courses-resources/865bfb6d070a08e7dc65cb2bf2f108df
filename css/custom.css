@@ -125,6 +125,9 @@ body{
     font-size: 15px !important;
     line-height: 15px !important;
 }
+.overflow-x{
+    overflow-x: scroll;
+}
 @media (max-width: 575px) {
 
 }
@@ -154,6 +157,9 @@ body{
         text-align: center;
 	 
     }
+	.table-overflow{
+                width: 200%;
+            }
 .modal-super-big{
     max-width: 100% !important;
 }
@@ -172,5 +178,8 @@ body{
 .padd-40{
     padding: 40px;
 }
+	.table-overflow{
+                width: 100%;
+            }
 }
 /**/
