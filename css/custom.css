@@ -134,9 +134,7 @@ body{
     font-size: 15px !important;
     line-height: 15px !important;
 }
-.overflow-x{
-    overflow-x: scroll;
-}
+
 @media (max-width: 575px) {
 
 }
@@ -175,6 +173,9 @@ body{
 .padd-40{
     padding: 20px;
 }
+	.overflow-x{
+    overflow-x: scroll;
+}
 }
 
 @media (min-width: 768px) {
@@ -190,5 +191,8 @@ body{
 	.table-overflow{
                 width: 100%;
             }
+	.overflow-x{
+    overflow-x: none;
+}
 }
 /**/
