@@ -134,7 +134,9 @@ body{
     font-size: 15px !important;
     line-height: 15px !important;
 }
-
+.line-h-btn{
+    line-height: 20px !important;
+}
 @media (max-width: 575px) {
 
 }
