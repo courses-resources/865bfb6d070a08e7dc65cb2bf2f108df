@@ -6,6 +6,9 @@ body{
     text-decoration: none;
     font-style: normal;
 }
+.oculto{
+    display: none;
+}
 .table-bordered {
     border: 0px solid #dee2e6 !important;
 }
