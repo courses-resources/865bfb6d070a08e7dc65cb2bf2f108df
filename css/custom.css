@@ -81,24 +81,7 @@ body{
 .title-color{
     color: #bf1a36;
 }
-.h3-titulos{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
-    line-height: 45px;
-    margin-bottom: 40px;
-    margin-top: 40px;
-    text-align: center;
-    --font-weight: bold;
-}
-.h3-subtitulos{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
-    line-height: 35px;
-    margin-bottom: 30px;
-    margin-top: 30px;
-    text-align: center;
-    --font-weight: bold;
-}
+
 
 
 
@@ -154,6 +137,24 @@ body{
 
 
 @media (max-width: 767px) {
+	.h3-titulos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    line-height: 39px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: center;
+    --font-weight: bold;
+}
+.h3-subtitulos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    --font-weight: bold;
+}
  .titulo-modulo{
         text-align: center;
 	 
@@ -172,12 +173,12 @@ body{
 }
 	.p-12-15{
      font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 13px;
     color: #5a5a5b;
     font-weight: 400;
     text-decoration: none;
     font-style: normal;
-    line-height: 15px;
+    line-height: 16px;
 }
 }
 
@@ -205,6 +206,24 @@ body{
     text-decoration: none;
     font-style: normal;
     line-height: 19px;
+}
+	.h3-titulos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: center;
+    --font-weight: bold;
+}
+.h3-subtitulos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    --font-weight: bold;
 }
 }
 /**/
