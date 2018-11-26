@@ -139,8 +139,8 @@ body{
 @media (max-width: 767px) {
 	.h3-titulos{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 34px;
-    line-height: 39px;
+    font-size: 31px;
+    line-height: 36px;
     margin-bottom: 40px;
     margin-top: 40px;
     text-align: center;
@@ -148,8 +148,8 @@ body{
 }
 .h3-subtitulos{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 24px;
-    line-height: 29px;
+    font-size: 21px;
+    line-height: 26px;
     margin-bottom: 30px;
     margin-top: 30px;
     text-align: center;
