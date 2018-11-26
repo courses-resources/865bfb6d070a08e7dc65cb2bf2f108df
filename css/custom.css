@@ -43,8 +43,14 @@ body{
     color: white;
     padding: 10px 24px;
 }
-.green-button:hover{
+.green-button:hover,.green-button-2:hover{
     background-color: #919629 !important;
+}
+.green-button-2 {
+    background-color: #b1b82e !important;
+    margin-bottom: 10px;
+    color: white;
+    padding: 5px 10px;
 }
 .front-white{
 	background-color: white;
