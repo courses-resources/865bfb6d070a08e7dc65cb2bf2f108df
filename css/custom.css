@@ -10,11 +10,22 @@ body{
     width: 100%;
 }
 .fixed-button{
-            width: 95% !important;
-            min-height: 80px !important;
-            line-height: 17px !important;
-            padding: 0px 0px !important;
-        }
+    width: 95% !important;
+    min-height: 80px !important;
+    line-height: 17px !important;
+    padding: 0px 0px !important;
+}
+.hs-responsive-embed-youtube {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    padding-top: 25px;
+}
+
+.hs-responsive-embed-youtube iframe {
+    position: absolute;
+    width: 100%!important;
+    height: 100%!important;
+}
 .oculto{
     display: none;
 }
