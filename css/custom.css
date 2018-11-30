@@ -9,6 +9,12 @@ body{
 .full-width{
     width: 100%;
 }
+.fixed-button{
+            width: 95% !important;
+            min-height: 80px !important;
+            line-height: 17px !important;
+            padding: 0px 0px !important;
+        }
 .oculto{
     display: none;
 }
