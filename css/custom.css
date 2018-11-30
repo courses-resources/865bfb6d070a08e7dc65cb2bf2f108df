@@ -6,6 +6,9 @@ body{
     text-decoration: none;
     font-style: normal;
 }
+.full-width{
+    width: 100%;
+}
 .oculto{
     display: none;
 }
