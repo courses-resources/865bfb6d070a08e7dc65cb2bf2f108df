@@ -6,6 +6,9 @@ body{
     text-decoration: none;
     font-style: normal;
 }
+.img-hover:hover{
+             transform: scale(1.02);
+        }
 .full-width{
     width: 100%;
 }
