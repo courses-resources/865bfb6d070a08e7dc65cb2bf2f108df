@@ -6,6 +6,11 @@ body{
     text-decoration: none;
     font-style: normal;
 }
+ .font-image{
+                margin-top: 10px;
+    font-size: 13px;
+    line-height: 13px;
+        }
 .img-hover:hover{
              transform: scale(1.02);
         }
